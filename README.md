@@ -2,7 +2,7 @@
 - 👀 I’m interested in map visualization over web
 - 🌱 I’m currently learning Vue.js and leaflet
 - 💞️ I’m looking to collaborate on related projects
-- 📫 How to reach me: betomaki@yahoo.com
+- 📫 How to reach me: Instagram @lestrazmomo
 
 <!---
 betomaki/betomaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
